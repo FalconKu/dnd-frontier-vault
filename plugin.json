@@ -6,7 +6,7 @@
   "supported_locales": ["zh-CN"],
   "id": "dnd-frontier-vault",
   "name": "霜脊边地：边镇资料集",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "D&D 2024 规则的中文资源包：一座可以随时开团的边地铁镇「灰砧」、27 条资料（人物、地点、怪物、物品与传说，12 条玩家可见）和一张九地点关系地图。不含剧本。",
   "plugin_type": "content-pack",
   "license": "CC-BY-NC-4.0",
@@ -18,6 +18,11 @@
     "lorebooks": ["content/lorebooks/*.json"],
     "map_definitions": ["maps/definitions/*.json"],
     "map_locations": ["maps/locations/*.json"]
+  },
+  "requires": {
+    "rulesets": [
+      { "id": "core:dnd2024" }
+    ]
   },
   "docs": "README.md"
 }
