@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "id": "ashfell-valley",
+  "name": "灰砧谷地",
+  "mode": "graph",
+  "worlds": [
+    "ashfell"
+  ],
+  "default": true,
+  "nodes": [
+    {
+      "location_ref": "tavern",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "location_ref": "hall",
+      "x": 25,
+      "y": -15
+    },
+    {
+      "location_ref": "smithy",
+      "x": -25,
+      "y": -10
+    },
+    {
+      "location_ref": "bridge",
+      "x": -10,
+      "y": 30
+    },
+    {
+      "location_ref": "mine",
+      "x": 10,
+      "y": -38
+    },
+    {
+      "location_ref": "pass",
+      "x": 30,
+      "y": -48
+    },
+    {
+      "location_ref": "mill",
+      "x": -34,
+      "y": 22
+    },
+    {
+      "location_ref": "shrine",
+      "x": -10,
+      "y": 34
+    },
+    {
+      "location_ref": "watchtower",
+      "x": 30,
+      "y": -34
+    }
+  ],
+  "default_view": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

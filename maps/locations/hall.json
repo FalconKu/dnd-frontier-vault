@@ -1,0 +1,9 @@
+{
+  "id": "hall",
+  "name": "议事厅",
+  "world_id": "ashfell",
+  "connected_to": ["tavern", "bridge"],
+  "content": "旧选矿厂改的议事厅，二楼档案室存着一百二十年的契约与矿图。封矿那天的死亡登记整页被裁掉。",
+  "keywords": ["议事厅", "档案", "契约", "镇务官"],
+  "tier": "background"
+}

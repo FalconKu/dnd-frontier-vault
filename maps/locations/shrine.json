@@ -1,0 +1,17 @@
+{
+  "id": "shrine",
+  "name": "半身人神龛",
+  "world_id": "ashfell",
+  "connected_to": [
+    "tavern",
+    "hall"
+  ],
+  "content": "半身人聚居区路口的小神龛，供着「行路者」。龛前摆着七双小鞋，是给过山口的人留的。最近半年，鞋摆得比往年多。",
+  "keywords": [
+    "神龛",
+    "行路者",
+    "小鞋",
+    "半身人"
+  ],
+  "tier": "background"
+}

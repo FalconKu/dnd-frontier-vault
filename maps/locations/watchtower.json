@@ -1,0 +1,17 @@
+{
+  "id": "watchtower",
+  "name": "北岭瞭望塔",
+  "world_id": "ashfell",
+  "connected_to": [
+    "pass",
+    "mine"
+  ],
+  "content": "石砌两层，能看到山口和矿口。守塔的猎人每月换一次，因为「看久了会听见」。塔里有本观测簿，记着过山口的人数和回来的人数，两个数字从来没对上过。",
+  "keywords": [
+    "瞭望塔",
+    "山口",
+    "观测簿",
+    "猎户"
+  ],
+  "tier": "background"
+}

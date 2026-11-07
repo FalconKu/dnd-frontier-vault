@@ -1,0 +1,9 @@
+{
+  "id": "pass",
+  "name": "霜脊山口",
+  "world_id": "ashfell",
+  "connected_to": ["mine"],
+  "content": "冰壁夹出的窄路，风穿过时会发出像人声的声响。规矩：不回头、不应声、不捡东西。",
+  "keywords": ["山口", "霜脊", "隘口", "回头"],
+  "tier": "background"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "smithy",
+  "name": "铁匠街",
+  "world_id": "ashfell",
+  "connected_to": ["tavern"],
+  "content": "六座炉子三家还在烧。夜里干活的那位能修矿灯，也认得出银色灯油。",
+  "keywords": ["铁匠", "炉", "矿灯", "修理"],
+  "tier": "background"
+}

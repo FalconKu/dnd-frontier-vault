@@ -1,0 +1,9 @@
+{
+  "id": "tavern",
+  "name": "断镐酒馆",
+  "world_id": "ashfell",
+  "connected_to": ["hall", "smithy"],
+  "content": "旧火药库改的酒馆，墙厚三尺。中央挂着第一任矿主的断镐，酒窖能睡十个人。",
+  "keywords": ["酒馆", "断镐", "酒窖", "客栈"],
+  "tier": "background"
+}

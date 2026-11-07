@@ -1,0 +1,9 @@
+{
+  "id": "bridge",
+  "name": "石桥与驿站",
+  "world_id": "ashfell",
+  "connected_to": ["hall", "mine"],
+  "content": "跨季节河的石桥，桥头有半塌的驿站。失踪商队的马在这里被找到，鞍上结霜。",
+  "keywords": ["石桥", "驿站", "商队", "马"],
+  "tier": "background"
+}

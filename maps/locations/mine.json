@@ -1,0 +1,9 @@
+{
+  "id": "mine",
+  "name": "余烬厅矿口",
+  "world_id": "ashfell",
+  "connected_to": ["bridge", "pass"],
+  "content": "镇北三里的矿口，铁门焊死。「瓦斯·勿近」的白漆下压着一行矮人符文：欠债未清。风是热的。",
+  "keywords": ["矿口", "余烬厅", "封矿", "铁门"],
+  "tier": "background"
+}
